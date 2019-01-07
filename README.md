@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/IBM/MAX-Image-Completer.svg?branch=master)](https://travis-ci.com/IBM/MAX-Image-Completer)
+
 # IBM Developer Model Asset Exchange: Image Completer
 
 This repository contains code to instantiate and deploy an image completer model. The goal is to fill in missing or 
