@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/IBM/MAX-Image-Completer.svg?branch=master)](https://travis-ci.com/IBM/MAX-Image-Completer)
+[![Build Status](https://api.travis-ci.com/IBM/MAX-Image-Completer.svg?branch=master)](https://travis-ci.com/IBM/MAX-Image-Completer)
 
 # IBM Developer Model Asset Exchange: Image Completer
 
